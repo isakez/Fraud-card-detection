@@ -31,7 +31,7 @@ These charasteristics of the data suggest me that a normalization and techniques
 
 ### First result 
 
-Un model very consistent with his results along all the process was the *DecisionTreeClassifier*. As we can see the first results are pretty good
+One model very consistent with his results along all the process was the *DecisionTreeClassifier*. As we can see the first results are pretty good
 
 |           | Precision | Recall | F1-Score | Support |
 |-----------|-----------|--------|----------|---------|
